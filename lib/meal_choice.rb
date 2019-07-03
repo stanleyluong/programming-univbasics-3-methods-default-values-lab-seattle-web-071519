@@ -1,5 +1,6 @@
 # Your code here
-
+veg1 = broccoli
+veg2 = 
 def meal_choice(veg1, veg2, protein)
   protein = meat
   puts "What a nutritious meal!"
